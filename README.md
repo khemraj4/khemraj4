@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khemraj4
-- 👀 I’m interested in Java coding language.
-- 🌱 I’m currently learning coding with java and the libraries. 
+- 👀 I’m interested in making 3D websites.
+- 🌱 I’m currently learning coding with Three.js. 
 - 📫 How to reach me - khemrajbhandri1234@gmail.com
 
 <!---
